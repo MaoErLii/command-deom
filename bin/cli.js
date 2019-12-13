@@ -10,5 +10,5 @@ program
   .parse(process.argv)
 
 if(program.name) {
-  console.log(`Hello, ${program.name}! (${program.email})  What's your`)
+  console.log(`Hello, ${program.name}! (${program.email})  What's your problem?`)
 }
