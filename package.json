@@ -1,0 +1,14 @@
+{
+  "name": "command-demo",
+  "version": "1.0.0",
+  "description": "命令行工具学习",
+  "main": "index.js",
+  "bin": {
+    "hello": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "guohongjian",
+  "license": "ISC"
+}
