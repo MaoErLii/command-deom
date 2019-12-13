@@ -16,6 +16,9 @@
     "url": "https://github.com/MaoErLii/command-deom.git"
   },
   "dependencies": {
-    "commander": "^4.0.1"
+    "chalk": "^3.0.0",
+    "commander": "^4.0.1",
+    "inquirer": "^7.0.0",
+    "ora": "^4.0.3"
   }
 }
