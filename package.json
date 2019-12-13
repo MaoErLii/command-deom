@@ -14,5 +14,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/MaoErLii/command-deom.git"
+  },
+  "dependencies": {
+    "commander": "^4.0.1"
   }
 }
